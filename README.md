@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @mohammad-khs
-- 👀 I’m interested in ... front-end 
-- 🌱 I’m currently learning ... front-end
-- 💞️ I’m looking to collaborate on ... java-script projects
-- 📫 How to reach me ... mohkhosho123@gmail.com is my gmail
+ 👋 Hi, I’m Mohammad khosravani
+ 👀 I’m interested in web technologies
+ <h3>🌱 For now Im trying to :</h3>
+- Learn new technologies and how to use them in real world problems
+- how 
+- 💞️ I’m looking to collaborate on java-script projects
+- 📫 How to reach me : mohkhosho123@gmail.com
 
 <!---
 mohammad-khs/mohammad-khs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
