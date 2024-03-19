@@ -2,8 +2,7 @@
  👀 I’m interested in web technologies
  <h3>🌱 For now Im trying to :</h3>
 - Learn new technologies and how to use them in real world problems
-- how 
-- 💞️ I’m looking to collaborate on java-script projects
+- 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me : mohkhosho123@gmail.com
 
 <!---
